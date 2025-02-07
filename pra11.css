@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.main{
+    height: 500px;
+    width: 80%;
+    background-color: antiquewhite;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+h6{
+    text-align: left;
+    margin-left: 190px;
+}
+p{
+    text-align: left;
+    margin-left: 190px;
+}
